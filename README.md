@@ -20,6 +20,8 @@ This repository contains the final project for the course **Data Processing with
 ├── notebooks/
 │ └── stock_analysis_final.ipynb # Main analysis notebook
 │
+├── candlestick_plot.html
+|
 └── README.md
 ```
 ## Key Features
